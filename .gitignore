@@ -1,0 +1,13 @@
+/dist
+gen.go
+.idea
+.intellij
+log
+*.iml
+traefik
+traefik.toml
+*.test
+vendor/
+static/
+.vscode/
+site/

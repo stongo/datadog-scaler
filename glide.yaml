@@ -1,0 +1,5 @@
+package: github.com/stongo/datadog-scaler
+import:
+- package: github.com/abbot/go-http-auth
+- package: github.com/containous/flaeg
+- package: github.com/containous/staert
