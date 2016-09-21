@@ -24,4 +24,4 @@ password: test
 
 ## Datadog Alert
 
-`EventTitle` must container `[Scale Up]` or `[Scale Down]` to trigger scaling
+`EventTitle` from Datadog webhook payload must contain `[Scale Up Trusty]`, `[Scale Up Precise]`, `[Scale Down Trusty]`, `[Scale Down Precise]` to trigger scaling
